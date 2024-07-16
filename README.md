@@ -1,2 +1,2 @@
 # Rolling_Balls
-Rolling Balls in Unity
+A simple Rolling Balls project in Unity
